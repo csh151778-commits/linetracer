@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LTC_ADC_CONVST",
+					"strict" : false
+				},
+				{
+					"name" : "LTC_ADC_SCK",
+					"strict" : false
+				},
+				{
+					"name" : "LTC_ADC_SDI",
+					"strict" : false
+				},
+				{
+					"name" : "MTRL_N",
+					"strict" : false
+				},
+				{
+					"name" : "MTRL_P",
+					"strict" : false
+				},
+				{
+					"name" : "MTRR_N",
+					"strict" : false
+				},
+				{
+					"name" : "MTRR_P",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK_50",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LTC_ADC_SDO",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

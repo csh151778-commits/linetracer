@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -3.957
+TNS   : -318.107
+
+Type  : Slow 1200mV 85C Model Setup 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : -0.501
+TNS   : -1.192
+
+Type  : Slow 1200mV 85C Model Setup 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : -0.111
+TNS   : -0.219
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -143.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -3.498
+TNS   : -273.342
+
+Type  : Slow 1200mV 0C Model Setup 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : -0.312
+TNS   : -0.674
+
+Type  : Slow 1200mV 0C Model Setup 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : 0.016
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.222
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -143.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -1.738
+TNS   : -118.952
+
+Type  : Fast 1200mV 0C Model Setup 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : 0.377
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : 0.054
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.165
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -183.152
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ADC_CH_OUT:v|ADC_CTRL:adc|CH_CH'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ADC_CH_OUT:v|ADC_CTRL:adc|CONVST'
+Slack : -1.000
+TNS   : -3.000
+
+------------------------------------------------------------
